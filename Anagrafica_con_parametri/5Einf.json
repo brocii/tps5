@@ -1,0 +1,110 @@
+[
+  {
+    "elenco": 1,
+    "cognome": "Ammirati",
+    "nome": "Massimiliano",
+    "età": 18
+  },
+  {
+    "elenco": 2,
+    "cognome": "Ayala",
+    "nome": "Sebastie",
+    "età": 18
+  },
+  {
+    "elenco": 3,
+    "cognome": "Battaglia",
+    "nome": "Valerio",
+    "età": 18
+  },
+  {
+    "elenco": 4,
+    "cognome": "Biroli",
+    "nome": "Lucia",
+    "età": 18
+  },
+  {
+    "elenco": 5,
+    "cognome": "Elsi",
+    "nome": "Federico",
+    "età": 18
+  },
+  {
+    "elenco": 6,
+    "cognome": "Giudici",
+    "nome": "Abel",
+    "età":  18
+  },
+  {
+    "elenco": 7,
+    "cognome": "Lucchetti",
+    "nome": "Andrea",
+    "età": 18
+  },
+  {
+    "elenco": 8,
+    "cognome": "Mansi",
+    "nome": "Edoardo",
+    "età": 20
+  },
+  {
+    "elenco": 9,
+    "cognome": "Marsano",
+    "nome": "Valerio",
+    "età": 18
+  },
+  {
+    "elenco": 10,
+    "cognome": "Marzi",
+    "nome": "Riccardo",
+    "età": 18
+  },
+  {
+    "elenco": 11,
+    "cognome": "Mauro",
+    "nome": "Simone",
+    "età": 19
+  },
+  {
+    "elenco": 12,
+    "cognome": "Narciso",
+    "nome": "Michele",
+    "età": 17
+  },
+  {
+    "elenco": "13",
+    "cognome": "Paredes",
+    "nome": "Marco",
+    "età":  19
+  },
+  {
+    "elenco": 14,
+    "cognome": "Raballo",
+    "nome": "Enrico",
+    "età":  18
+  },
+  {
+    "elenco": 15,
+    "cognome": "Ronchi",
+    "nome": "Angelo",
+    "età":   17
+  },
+  {
+    "elenco": 16,
+    "cognome": "Sesti",
+    "nome": "Luca",
+    "età":  17
+  },
+  {
+    "elenco": 17,
+    "cognome": "Viscomi",
+    "nome": "Niccolo",
+    "età":  18
+  },
+  {
+    "elenco": 18,
+    "cognome": "Vodola",
+    "nome": "Christian",
+    "età": 18
+  }
+]
