@@ -105,7 +105,7 @@ function minorenni(){
             console.log(json);
             let età=[];
             for(let i of json){
-                if(i.eta<18){
+                if(i.età<18){
                     età.push(i);
                 }
             }
@@ -120,12 +120,13 @@ function maggiorenni(){
             console.log(json);
             let età=[];
             for(let i of json){
-                if(i.eta>=18){
+                if(i.età>=18){
                     età.push(i);
                 }
             }
             inserisci(età)
             
         
+
 
 }
