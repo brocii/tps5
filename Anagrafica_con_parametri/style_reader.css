@@ -1,34 +1,51 @@
 
-.row {
+.col-3 {
     font-family: Arial, sans-serif;
     background-color: #ffffff;
     text-align: center;
-    padding-top:2%;
-}
-#titolo{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 400%;
-    color: #0e7d37;
-    font-weight: 700;
-    
+    padding-top:10%;
+    margin-top: 5%;
 }
 
-#inserisci {
+
+#eta {
     padding: 2%;
     background-color: #0e7d37;
     color: #ffffff;
     border: none;
     border-radius: 5px;
-    font-size: 25px;
+    font-size: 13px;
     cursor: pointer;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
-    
+    margin-left:2%;
+    margin-bottom:3%;
+    width: 40%;
+}
+#tutti {
+    padding: 2%;
+    background-color: #0e7d37;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    margin-top:10%;
+    width: 70%;
 }
 
-#inserisci:hover {
+#eta:hover {
     background-color: #20974d;
     box-shadow: inset 4px 4px 8px rgba(0, 0, 0, 0.3);
     transform: scale(0.98);
+}
+
+#nome{
+    width: 70%;
+    margin-left:15%;
+    margin-top:3%;
+    font-size: 20px;
+    
 }
 
 
@@ -42,6 +59,7 @@
     border-radius: 15px;
 
 }
+
 
 th {
     padding: 1%;
