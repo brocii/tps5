@@ -1,0 +1,149 @@
+.tipi_viaggi{
+    background-color: brown;
+   
+    
+}
+.card_body{
+    text-align: center;
+    color: black;
+    background-color: blue;
+    white-space: none;
+}
+.btn{
+    padding: 0%;
+
+}
+#nav_scritta{
+    font-size: 20px;
+    margin-top: 1%;
+    color: black;
+    margin-left: 2%;
+}
+#nav{
+    background-color: rgb(231, 230, 230);
+    padding-left: 3%;
+    height: 80px; 
+    background-color: #f0f0f0;
+}
+.navbar-brand{
+    height: 80px;
+}
+#inizio{
+    width: 50%;
+}
+#benvenuto{
+    text-align: center;
+}
+#immagini{
+    width: 10%;
+}
+#top{
+    float: left;
+}
+#titolo{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 5%;
+}
+#bottoni{
+    padding: 2%;
+}
+#nome{
+    background-color: rgb(254, 191, 197);
+
+}
+#mail{
+    background-color: rgb(239, 232, 179);
+}
+#cel{
+    background-color: rgb(204, 245, 217);
+}
+#messaggio{
+    background-color: rgb(205, 215, 251);
+}
+.div-form{
+    text-align: center;
+    font-family: verdana;
+    margin-top: 3%;
+}
+#titolo{
+    font-weight: 800;
+}
+.testi{
+    box-shadow: 3px 5px 10px rgb(160, 160, 160);
+    border:0px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 17px;
+    padding-right: 17px;
+    margin-bottom:20px;
+    border-radius: 5px;
+}
+label{
+    font-size: 25px;
+}
+.btn{
+    box-shadow: 3px 5px 10px rgb(160, 160, 160);
+}
+.card{
+    text-align: center;
+    height: 450px; /* altezza fissa */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 1rem;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 10px;
+}
+.card-img-container {
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+  }
+  
+  .card-img-container img {
+    max-height: 100%;
+    width: auto;
+    object-fit: contain; 
+  }
+    
+
+
+
+#dettagli {
+    display: flex;
+    align-items: flex-end;
+    text-align: end;
+    gap: 20px;
+    padding: 20px;
+    
+    margin-top: 6% ;
+    font-family: verdana;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#immagine {
+    width: auto;
+    height: 300px;
+    
+}
+
+#tastoCarrello{
+    padding:1%;
+    margin-left: 43%;
+    margin-top: 3%;
+}
+
+
+#autentica{
+    text-align: center;
+}
+#invia{
+    font-size: 25px;
+    padding:1%;
+    margin-left: 45%;
+    background-color:#f0f0f0
+}
