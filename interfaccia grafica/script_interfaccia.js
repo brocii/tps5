@@ -4,26 +4,9 @@ let t=0;
 
 
 function leggi() {
-    container = document.getElementById("prodotti");
+    caricaCategorieCSV()
+    
 
-
-    const req0 = new XMLHttpRequest();
-    req0.open("GET", "cappelloSportivi.csv", true);
-    req0.onload = function () {
-         let items = []
-        let response = req0.responseText
-        let csv = response.split("\n")
-        
-        for (let i in csv) {
-            if (i != 0) {
-                let data = csv[i].replaceAll('"', '')
-                data = data.replaceAll('\r', '')
-                const effData = data.split(",")
-                const item = {marca: effData[0], modello: effData[1], prezzo: effData[2], immagine: effData[3], descrizione: effData[4]}
-                items.push(item)
-    };}
-        caricaCategorieCSV(items);}
-    req0.send();
 
     const req = new XMLHttpRequest();
     req.open("GET", "cappelli.json", true);
@@ -41,6 +24,13 @@ function leggi() {
         caricaCategorieXML(xml);
     };
     req1.send();
+}
+
+function caricaCategorieCSV() {
+    let categoria="cappelli sportivi";
+    
+        creaCardCategoria(categoria);
+    
 }
 
 function caricaCategorieJSON(file) {
@@ -81,8 +71,23 @@ function caricaCategorieXML(xml) {
     let img = document.createElement("img");
     img.classList.add("card-img-top");
 
-    img.src = `${t}.png`;
-
+    switch(categoria){
+        case"cappelli sportivi":
+            img.src="1.png";
+            break;
+        case"cappelli eleganti":
+            img.src="2.png";
+            break;
+        case"cappelli casual":
+            img.src="3.png";
+            break;
+        case "cappelli invernali":
+            img.src="4.png";
+            break;
+        case"cappelli estivi":
+            img.src="5.png";
+            break;
+    }                    
     let testoCard = document.createElement("div");
     testoCard.classList.add("card-body");
 
