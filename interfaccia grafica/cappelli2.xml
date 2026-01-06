@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalogo>
+  <categoria nome="cappelli invernali">
+    <prodotto>
+      <marca>The North Face</marca>
+      <modello>Salty Bae Beanie</modello>
+      <prezzo>35€</prezzo>
+      <immagine>https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyad7Inj2Me-5UAE6YI8efbgW_-fgxPfKU05kbrL18GJb_7_mzneQXWwsQ_rWv1kATuUPqzQmhFRB8wBTIkpKUKeE5Tg4LPZ50P0kiGjc1VFT9LgO_gbioUd47Lb5HqvVkWWOVQQ</immagine>
+      <descrizione>Berretto caldo in maglia, pensato per offrire comfort anche nei giorni più freddi.</descrizione>
+    </prodotto>
+    <prodotto>
+      <marca>Patagonia</marca>
+      <modello>Brodeo Beanie</modello>
+      <prezzo>40€</prezzo>
+      <immagine>https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQQFeYYE0TpwMDkfYWthcrdFlQPjvl6PE5oXsviaJR4FJmR_gRXPJ4h8WwJU6Gu_7s79WlXGg43dBylz-ULrdxioZztsUEs83gIuJ5kQlTrsozJKntiia7pJJwREHVydEojBijSfK8D</immagine>
+      <descrizione>Realizzato in lana e poliestere riciclati, è una scelta sostenibile e calda per l’inverno.</descrizione>
+    </prodotto>
+    <prodotto>
+      <marca>Columbia</marca>
+      <modello>Whirlibird Watch Cap</modello>
+      <prezzo>22€</prezzo>
+      <immagine>https://images1.sportpursuit.info/media/catalog/product/cache/1/small_image/170x170/040ec09b1e35df139433887a97daa66f/1/1/1185181_464_1.webp</immagine>
+      <descrizione>Stile snowboarding moderno e caldo, disponibile in vari colori.</descrizione>
+    </prodotto>
+    <prodotto>
+      <marca>Napapijri</marca>
+      <modello>Semiury 2</modello>
+      <prezzo>38€</prezzo>
+      <immagine>https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTU4-DFIoE6Nv_8DDaRm2jeeFYSPQFYGcmKt1pjISKtttEoA-sN793JL343t21znDcPs72gCMD7SQQsY_3WMWg5hNJe5t_0p7aasEwP-KAV-Lf59yWFvn74n4iUzsipjx8RM6KK8kJbqQ</immagine>
+      <descrizione>Berretto con pompon, simbolo iconico dello stile invernale norvegese.</descrizione>
+    </prodotto>
+  </categoria>
+
+  <categoria nome="cappelli estivi">
+    <prodotto>
+      <marca>Quiksilver</marca>
+      <modello>Pierside Straw Hat</modello>
+      <prezzo>30€</prezzo>
+      <immagine>https://www.tradeinn.com/f/14223/142238665/quiksilver-berrretto-pierside.webp</immagine>
+      <descrizione>Cappello leggero con stampa tropicale, pensato per le vacanze e le giornate calde.</descrizione>
+    </prodotto>
+    <prodotto>
+      <marca>Rip Curl</marca>
+      <modello>Coastal Breeze</modello>
+      <prezzo>26€</prezzo>
+      <immagine>https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcShIcFXJVStt7XsH4EKdDpTCr4XxOQuSWfTEBleoNf8SlubKOMj8LK7ZUv1XCHg9iXnoZfpDYV_aoNv90vJhwA_X5fLEW_g0AQdPChx341Jpn93Z5CkXQoArkksLbubXTuwhF-rlpkm</immagine>
+      <descrizione>Cappello in stile pescatore, leggero e perfetto per le giornate al mare.</descrizione>
+    </prodotto>
+  </categoria>
+</catalogo>
